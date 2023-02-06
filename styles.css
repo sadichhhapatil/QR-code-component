@@ -55,3 +55,12 @@ h4{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
+div.qr-box:hover{
+    box-shadow: 0 -5px 3px -3px black, 0 5px 3px -3px black;
+    transform: scale(1.02);
+
+}
+
+img:hover{
+    transform:scale(1.02);
+}
